@@ -10,3 +10,6 @@
 ``` python
 x = "Hello, world!"
 ```
+
+- [ ] task 1
+- [ ] task 2
